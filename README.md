@@ -1,5 +1,5 @@
 # ActionPerMinute_graphic
-Script to make a animated graphic showing the average action per minute of the last 'T' second
+Script to make an animated graphic showing the average action per minute of the last 'T' second
 
 Uses pynput listeners to measure the amount of actions. Doesn't always works on fullscreen aplications.
 The graphic is made using matplotlib.animation
